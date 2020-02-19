@@ -1,0 +1,39 @@
+{
+  "name": "nike-shop",
+  "version": "1.0.0",
+  "description": "My Nuxt.js project. Nike shop",
+  "author": "Mikhaltsevich K",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .ts,.js,.vue ."
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.8.0",
+    "@babel/plugin-proposal-decorators": "^7.8.0",
+    "@babel/preset-env": "^7.8.2",
+    "@nuxt/vue-app": "^2.11.0",
+    "@web-types/vuetify": "^2.0.15-1",
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "npx": "^10.2.0",
+    "nuxt": "^2.10.2",
+    "vue": "^2.6.11",
+    "vue-property-decorator": "^8.3.0",
+    "vue-server-renderer": "^2.6.11",
+    "vue-template-compiler": "^2.6.11",
+    "vuex-class": "^0.3.2"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.3.4",
+    "@nuxtjs/eslint-config-typescript": "^1.0.2",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@vue/component-compiler-utils": "^3.1.1",
+    "eslint": "^6.8.0",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0"
+  }
+}
