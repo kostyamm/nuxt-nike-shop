@@ -17,7 +17,7 @@
     "@babel/preset-env": "^7.8.2",
     "@nuxt/vue-app": "^2.11.0",
     "@web-types/vuetify": "^2.0.15-1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "npx": "^10.2.0",
     "nuxt": "^2.10.2",
